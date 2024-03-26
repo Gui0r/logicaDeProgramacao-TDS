@@ -11,7 +11,7 @@ int main() {
     printf("Agora digite a sua idade: ");
     scanf("%d", &idade);
 
-    printf("Bem vindo a este software: %s\n", nome.c_str());
+    printf("Bem vindo a este software %s, você tem %d anos", nome.c_str(), idade);
    
 
     return 0;
