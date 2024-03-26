@@ -2,10 +2,10 @@
 
 int main(){
     //Exercicio 1
-    int a = 5;
-    int b = 3;
-    int c = 10;
-    bool resultado = (a > b && a < c);
+    int a = 8;
+    int b = 9;
+    int c = 17;
+    bool resultado = (a + b != c);
 
     printf("True or false?: %s\n", resultado ? "true" : "false");
    

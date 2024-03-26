@@ -10,6 +10,5 @@ int main(){
 
     dobro = numero * multiplicador;
 
-
     printf("Seu numero dobrado é: %d\n", dobro);
 }
